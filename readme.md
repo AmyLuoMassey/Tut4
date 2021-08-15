@@ -1,3 +1,3 @@
 tut4
 
-https://travis-ci.com/AmyLuoMassey/Tut4.svg?branch=master
+[![Build Status](https://travis-ci.com/AmyLuoMassey/Tut4.svg?branch=master)](https://travis-ci.com/AmyLuoMassey/Tut4)
